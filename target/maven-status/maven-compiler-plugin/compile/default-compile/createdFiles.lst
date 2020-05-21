@@ -1,0 +1,6 @@
+kgu\lab\model\Test.class
+kgu\lab\controllers\TestController.class
+kgu\lab\utils\ErrorEnum.class
+kgu\lab\Lab0Application.class
+kgu\lab\model\Response.class
+kgu\lab\repositories\RepositoryTest.class
